@@ -1,5 +1,5 @@
-// "use strict"
+"use strict"
 let name = "sumanth"
 age = 20
 email = "sumanth@gmail.com"
-console.table()
+console.table([name,age,email]);
