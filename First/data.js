@@ -20,3 +20,4 @@ number => 2 to power 53
 
  console.log(typeof undefined) // Undefined
  console.log(typeof null) //Object
+//  the end
