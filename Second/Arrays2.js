@@ -18,3 +18,4 @@ const real_another_array = another_array.flat(Infinity)
 
 console.log(real_another_array)
 // this part is done I guess
+// okay I still don't get git sometimes
