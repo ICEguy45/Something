@@ -17,3 +17,4 @@ const another_array = [1,2,4,5,6,[6,7],[6,7,[10,4]],1]
 const real_another_array = another_array.flat(Infinity)
 
 console.log(real_another_array)
+// this part is done I guess
