@@ -25,9 +25,18 @@ const object2 = {3:"a" , 4:"b"}
 // const object3 = Object.assign({},object1,object2)
 const object3 = {...object1,...object2}
 // console.log(object3)
-console.log(newUser)
-console.log(Object.keys(newUser))
-console.log(Object.values(newUser))
-console.log(Object.entries(newUser))
+// console.log(newUser)
+// console.log(Object.keys(newUser))
+// console.log(Object.values(newUser))
+// console.log(Object.entries(newUser))
 
-console.log(newUser.hasOwnProperty('isLoggedIn'))
+// console.log(newUser.hasOwnProperty('isLoggedIn'))
+
+const course = {
+  coursename:"Js in Hindi",
+  price:"999",
+  courseInstructor: "Sumanth"
+}
+const {courseInstructor} = course
+
+console.log(courseInstructor)
