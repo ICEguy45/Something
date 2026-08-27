@@ -5,3 +5,6 @@ function Add_two_number(number1, number2){
 Add_two_number(3,4)
 // new changes done
 // whatever
+function new_functions{
+  
+}
