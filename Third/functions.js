@@ -9,3 +9,4 @@ function new_functions{
   console.log(`new`)
 }
 // there is something known as scope for local and global variables
+// What are the changes
