@@ -8,3 +8,4 @@ Add_two_number(3,4)
 function new_functions{
   console.log(`new`)
 }
+// there is something known as scope for local and global variables
