@@ -6,5 +6,5 @@ Add_two_number(3,4)
 // new changes done
 // whatever
 function new_functions{
-  
+  console.log(`new`)
 }
